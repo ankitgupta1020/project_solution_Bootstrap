@@ -1,4 +1,4 @@
-**************Internshala VTC Web Development Project Solution*************************************************
+************** Web Development Project Solution*************************************************
 
 DESCRIPTION: This is the solution to the e-commerce website 
 
